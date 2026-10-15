@@ -1,11 +1,11 @@
 # Restaurant-Sales-Performance
 An Excel-based restaurant sales analysis project exploring revenue performance, order trends, best-selling menu items, restaurant location performance, and customer satisfaction.
 
-#🔑 Key Performance Indicators (KPIs)
+# 🔑 Key Performance Indicators (KPIs)
 Total Revenue: $25,799.45   
 Total Orders: 1,000 transactions   Total Quantity Sold: 1,755 units   Average Customer Rating: 3.9 / 5.0   
 
-#🎯 Key Insights & Findings
+# 🎯 Key Insights & Findings
 1. Dine-In generates the largest revenue contribution at 42%.
 2. The Main Course category dominates the transaction volume across all order types (Delivery, Dine-In, and Takeaway).
 3. Top 5 Best-Selling Menu Items (by Quantity Sold):Mushroom Risotto (Top bestseller, ~130+ units), Chicken Parmesan, NY Strip Steak, BBQ Ribs, and  Grilled Salmon.
